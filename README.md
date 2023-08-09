@@ -1,2 +1,2 @@
-# Vis-o-Computacional
+# VisaoComputacional
 Apostila para Visão Computacional com OpenCV e Python
