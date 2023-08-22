@@ -1,4 +1,5 @@
 import cv2 as cv
+import numpy as np
 
 img = cv.imread('pratica1.png', 1)
 

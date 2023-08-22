@@ -1,4 +1,5 @@
 import cv2 as cv
+import numpy as np
 
 img1 = cv.imread('kennedy.jpg', 1)
 img_media = cv.blur(img1, (9,9))

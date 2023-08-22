@@ -1,6 +1,6 @@
 import cv2 as cv
 
-img = cv.imread('washington.jpg')
+img = cv.imread('australia.jpg')
 
 B, G, R, alpha = cv.mean(img)
 
